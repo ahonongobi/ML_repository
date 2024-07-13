@@ -1,0 +1,1001 @@
+id,age,education_level,job_title,department,location,employment_duration,salary
+830,56,High School,Engineer,R&D,Boston,14,64000
+728,26,Bachelors,Engineer,R&D,Chicago,7,62000
+850,51,High School,Engineer,Marketing,San Francisco,13,63000
+199,33,High School,Scientist,R&D,Chicago,12,67000
+282,38,Masters,Scientist,R&D,New York,14,84000
+553,54,PhD,Manager,Marketing,Boston,4,89000
+676,47,High School,Engineer,Marketing,Chicago,2,52000
+543,62,High School,Analyst,R&D,San Francisco,12,57000
+192,52,Masters,Scientist,Marketing,San Francisco,9,79000
+191,22,High School,Scientist,Sales,San Francisco,6,61000
+52,26,Masters,Engineer,Sales,Boston,27,92000
+999,39,Bachelors,Analyst,Sales,Chicago,8,58000
+31,56,High School,Manager,Sales,Boston,19,79000
+209,41,Bachelors,Scientist,Marketing,Chicago,17,77000
+71,35,Masters,Engineer,R&D,New York,1,66000
+255,56,Masters,Engineer,Marketing,New York,10,75000
+829,38,Masters,Scientist,HR,Chicago,8,78000
+5,30,Bachelors,Manager,Sales,New York,8,73000
+345,25,Masters,Manager,Sales,New York,10,85000
+876,44,PhD,Scientist,R&D,Boston,11,91000
+301,21,Bachelors,Engineer,HR,Boston,20,75000
+434,54,High School,Scientist,R&D,Chicago,18,73000
+704,24,High School,Engineer,HR,New York,2,52000
+709,27,High School,Analyst,Marketing,New York,29,74000
+453,47,High School,Manager,HR,New York,14,74000
+838,29,Masters,Engineer,R&D,San Francisco,23,88000
+207,32,Bachelors,Engineer,Sales,San Francisco,3,58000
+534,51,Bachelors,Manager,HR,Boston,20,85000
+178,42,Bachelors,Manager,HR,New York,5,70000
+654,39,PhD,Analyst,Sales,San Francisco,6,76000
+729,59,High School,Scientist,Sales,San Francisco,29,84000
+335,40,Masters,Engineer,HR,Boston,9,74000
+10,27,High School,Engineer,Marketing,New York,28,78000
+212,58,Bachelors,Analyst,HR,New York,23,73000
+638,33,High School,Engineer,R&D,New York,22,72000
+596,43,Masters,Analyst,R&D,San Francisco,18,78000
+447,24,Bachelors,Engineer,Marketing,Chicago,7,62000
+290,50,Bachelors,Scientist,Sales,New York,4,64000
+839,53,PhD,Analyst,R&D,Chicago,21,91000
+770,53,High School,Scientist,Marketing,Chicago,23,78000
+768,53,High School,Engineer,Marketing,Boston,8,58000
+684,60,Bachelors,Engineer,R&D,San Francisco,26,81000
+181,28,Bachelors,Manager,Sales,Chicago,9,74000
+139,63,Masters,Engineer,Marketing,Chicago,2,67000
+568,36,Bachelors,Scientist,R&D,San Francisco,4,64000
+260,24,PhD,Scientist,R&D,Chicago,1,81000
+141,34,Bachelors,Scientist,R&D,New York,15,75000
+906,23,High School,Manager,Marketing,Boston,22,82000
+796,36,PhD,Engineer,Sales,New York,18,93000
+703,39,High School,Engineer,R&D,San Francisco,23,73000
+84,35,Bachelors,Manager,R&D,San Francisco,1,66000
+943,42,Bachelors,Engineer,Marketing,Chicago,13,68000
+856,24,Bachelors,Engineer,R&D,Chicago,1,56000
+19,38,Bachelors,Engineer,R&D,New York,28,83000
+279,32,Bachelors,Manager,HR,New York,6,71000
+696,39,Masters,Engineer,R&D,New York,3,68000
+194,45,High School,Analyst,Marketing,Chicago,6,51000
+62,22,PhD,Engineer,R&D,San Francisco,25,100000
+252,29,Bachelors,Scientist,R&D,New York,9,69000
+179,52,Bachelors,Scientist,R&D,San Francisco,18,78000
+698,45,High School,Scientist,Marketing,Boston,26,81000
+812,57,Masters,Scientist,R&D,Chicago,18,88000
+706,21,High School,Engineer,R&D,New York,7,57000
+749,33,PhD,Scientist,HR,New York,10,90000
+550,52,Bachelors,Manager,Marketing,Chicago,25,90000
+527,21,High School,Scientist,Marketing,Boston,27,82000
+908,31,High School,Engineer,R&D,Boston,3,53000
+721,23,High School,Manager,HR,Boston,3,63000
+844,50,High School,Analyst,Marketing,Boston,5,50000
+115,55,Masters,Scientist,HR,San Francisco,10,80000
+372,29,Masters,Manager,R&D,New York,13,88000
+343,36,High School,Engineer,HR,Boston,13,63000
+761,47,Masters,Scientist,R&D,Boston,9,79000
+44,44,Bachelors,Manager,R&D,San Francisco,4,69000
+341,29,High School,Engineer,Marketing,Chicago,20,70000
+599,58,High School,Manager,R&D,Boston,15,75000
+947,32,Masters,Scientist,HR,New York,20,90000
+92,26,Masters,Engineer,Marketing,Boston,4,69000
+971,56,High School,Engineer,R&D,San Francisco,23,73000
+523,47,Bachelors,Engineer,R&D,San Francisco,4,59000
+640,55,Bachelors,Scientist,Marketing,San Francisco,3,63000
+449,61,High School,Manager,R&D,San Francisco,29,89000
+810,25,Bachelors,Analyst,Sales,Chicago,1,51000
+34,40,Masters,Engineer,Marketing,San Francisco,27,92000
+974,59,High School,Engineer,R&D,San Francisco,15,65000
+188,32,Masters,Manager,R&D,Chicago,13,88000
+99,21,Bachelors,Scientist,Marketing,Chicago,26,86000
+545,49,Masters,Manager,R&D,San Francisco,26,101000
+891,64,PhD,Manager,Sales,San Francisco,27,112000
+865,51,Masters,Engineer,Sales,San Francisco,14,79000
+960,37,High School,Scientist,R&D,New York,11,66000
+1,21,Bachelors,Manager,R&D,San Francisco,22,87000
+541,49,PhD,Engineer,HR,Chicago,14,89000
+197,24,High School,Manager,HR,New York,25,85000
+982,50,High School,Engineer,R&D,Chicago,3,53000
+633,28,Masters,Analyst,Marketing,Boston,6,66000
+727,33,Masters,Scientist,Sales,Boston,2,72000
+707,31,Bachelors,Engineer,R&D,New York,7,62000
+468,41,Masters,Analyst,R&D,Chicago,3,63000
+485,21,High School,Manager,Sales,Chicago,4,64000
+526,61,High School,Engineer,HR,New York,27,77000
+735,59,Masters,Scientist,R&D,Boston,23,93000
+725,54,PhD,Scientist,R&D,Chicago,14,94000
+235,48,Bachelors,Engineer,R&D,New York,11,66000
+482,49,Bachelors,Scientist,Sales,Chicago,15,75000
+96,52,Masters,Scientist,R&D,New York,5,75000
+155,47,High School,Manager,Marketing,Chicago,12,72000
+387,37,Bachelors,Manager,R&D,New York,6,71000
+880,58,Bachelors,Engineer,Sales,Boston,13,68000
+866,50,Bachelors,Engineer,R&D,Boston,3,58000
+932,57,Masters,Scientist,Marketing,San Francisco,23,93000
+530,34,PhD,Engineer,Marketing,Chicago,26,101000
+890,37,Bachelors,Manager,Marketing,San Francisco,3,68000
+907,29,High School,Scientist,HR,Boston,5,60000
+72,56,High School,Manager,Sales,Chicago,15,75000
+910,59,Bachelors,Analyst,R&D,San Francisco,5,55000
+132,32,Bachelors,Scientist,R&D,Boston,2,62000
+414,41,PhD,Engineer,R&D,Chicago,20,95000
+326,63,High School,Analyst,R&D,New York,15,60000
+547,58,PhD,Engineer,R&D,Boston,15,90000
+443,57,PhD,Engineer,R&D,Chicago,21,96000
+294,53,Bachelors,Scientist,Marketing,New York,28,88000
+86,41,High School,Manager,Marketing,San Francisco,25,85000
+233,30,Bachelors,Engineer,Marketing,Boston,8,63000
+655,28,High School,Engineer,Marketing,Chicago,1,51000
+108,42,Bachelors,Manager,Marketing,New York,4,69000
+983,59,Bachelors,Scientist,HR,San Francisco,14,74000
+525,37,Bachelors,Engineer,HR,San Francisco,1,56000
+532,51,Masters,Engineer,Sales,Boston,15,80000
+369,27,Masters,Engineer,R&D,New York,23,88000
+874,50,Bachelors,Engineer,Sales,Chicago,25,80000
+340,21,Bachelors,Analyst,Sales,San Francisco,14,64000
+766,58,Masters,Scientist,HR,Boston,1,71000
+799,24,High School,Scientist,HR,Boston,22,77000
+832,58,Bachelors,Engineer,R&D,Boston,3,58000
+623,45,Bachelors,Scientist,Sales,New York,19,79000
+101,55,Masters,Analyst,R&D,Chicago,25,85000
+50,21,Bachelors,Engineer,HR,San Francisco,28,83000
+952,54,Bachelors,Scientist,Sales,Boston,19,79000
+711,56,Bachelors,Manager,Marketing,New York,21,86000
+594,42,Bachelors,Manager,Sales,New York,13,78000
+662,22,High School,Engineer,HR,New York,28,78000
+412,63,Bachelors,Analyst,HR,Boston,2,52000
+861,61,Bachelors,Engineer,R&D,San Francisco,17,72000
+293,46,Masters,Engineer,R&D,San Francisco,26,91000
+398,44,High School,Engineer,R&D,Boston,19,69000
+259,46,High School,Engineer,Marketing,Boston,6,56000
+773,50,PhD,Scientist,Sales,Chicago,11,91000
+958,45,Masters,Scientist,Sales,Boston,23,93000
+618,26,Bachelors,Scientist,Marketing,New York,28,88000
+321,32,PhD,Engineer,R&D,New York,20,95000
+399,48,Bachelors,Engineer,Sales,New York,24,79000
+416,25,High School,Scientist,R&D,New York,7,62000
+615,24,High School,Scientist,R&D,New York,10,65000
+536,62,PhD,Engineer,Marketing,New York,28,103000
+774,21,Bachelors,Manager,R&D,Chicago,23,88000
+875,22,High School,Engineer,R&D,Boston,25,75000
+834,34,Masters,Manager,Sales,San Francisco,19,94000
+772,33,Bachelors,Scientist,Marketing,Chicago,17,77000
+45,56,High School,Analyst,R&D,San Francisco,20,65000
+841,26,Bachelors,Manager,R&D,New York,28,93000
+382,38,High School,Engineer,Marketing,New York,21,71000
+898,28,Bachelors,Analyst,Sales,Chicago,20,70000
+380,56,Masters,Engineer,Sales,New York,28,93000
+804,38,Masters,Scientist,HR,New York,27,97000
+681,61,PhD,Engineer,Sales,Chicago,2,77000
+805,30,Masters,Scientist,Marketing,Boston,17,87000
+718,21,Bachelors,Analyst,R&D,New York,20,70000
+377,36,Bachelors,Engineer,HR,New York,10,65000
+356,64,Masters,Manager,Sales,Boston,28,103000
+524,59,Bachelors,Engineer,Marketing,Boston,15,70000
+736,32,Bachelors,Scientist,R&D,Boston,7,67000
+459,51,Bachelors,Scientist,R&D,New York,5,65000
+818,55,High School,Engineer,R&D,New York,5,55000
+2,24,High School,Engineer,R&D,San Francisco,4,54000
+478,40,Masters,Analyst,R&D,Boston,14,74000
+324,46,High School,Manager,R&D,Chicago,25,85000
+137,59,Bachelors,Scientist,HR,Boston,6,66000
+915,26,Bachelors,Scientist,R&D,New York,22,82000
+53,59,PhD,Analyst,R&D,Boston,14,84000
+929,34,Bachelors,Analyst,R&D,Boston,8,58000
+376,43,PhD,Manager,Marketing,Chicago,18,103000
+28,36,High School,Scientist,R&D,New York,16,71000
+562,48,Masters,Engineer,Sales,Chicago,13,78000
+537,59,Bachelors,Scientist,R&D,Chicago,18,78000
+934,47,Masters,Scientist,R&D,New York,4,74000
+680,33,Bachelors,Manager,R&D,Chicago,2,67000
+642,46,Bachelors,Manager,R&D,New York,3,68000
+663,41,Masters,Engineer,R&D,Chicago,18,83000
+97,26,Masters,Manager,R&D,Boston,3,78000
+715,59,PhD,Scientist,Sales,Chicago,16,96000
+299,38,High School,Engineer,Sales,New York,29,79000
+185,39,Bachelors,Manager,R&D,New York,19,84000
+941,58,Bachelors,Engineer,R&D,San Francisco,9,64000
+869,58,Masters,Manager,R&D,New York,10,85000
+278,60,High School,Engineer,R&D,San Francisco,25,75000
+502,48,Bachelors,Manager,HR,New York,20,85000
+957,46,High School,Scientist,Sales,San Francisco,3,58000
+954,54,Bachelors,Scientist,R&D,San Francisco,16,76000
+673,62,Bachelors,Engineer,Sales,San Francisco,14,69000
+683,58,Bachelors,Engineer,Sales,San Francisco,23,78000
+613,48,Masters,Scientist,Marketing,San Francisco,1,71000
+939,63,High School,Scientist,Sales,San Francisco,5,60000
+142,51,PhD,Analyst,R&D,San Francisco,10,80000
+234,31,Masters,Engineer,R&D,New York,3,68000
+250,26,High School,Manager,HR,New York,23,83000
+988,24,PhD,Engineer,HR,Chicago,19,94000
+275,48,Masters,Engineer,R&D,New York,16,81000
+962,47,PhD,Manager,R&D,New York,22,107000
+808,35,Bachelors,Engineer,HR,Chicago,26,81000
+688,56,Bachelors,Manager,HR,San Francisco,28,93000
+60,52,High School,Scientist,R&D,New York,29,84000
+286,49,High School,Scientist,Marketing,Boston,21,76000
+919,45,Masters,Engineer,R&D,Boston,21,86000
+117,51,High School,Scientist,Sales,Boston,28,83000
+441,60,High School,Manager,Sales,New York,18,78000
+253,22,Bachelors,Scientist,R&D,Boston,23,83000
+433,55,Bachelors,Scientist,Marketing,San Francisco,28,88000
+760,61,Bachelors,Analyst,Marketing,Chicago,27,77000
+368,34,Bachelors,Scientist,Sales,Chicago,26,86000
+493,40,Bachelors,Engineer,R&D,Boston,10,65000
+128,31,Bachelors,Scientist,HR,San Francisco,25,85000
+251,37,Bachelors,Engineer,Sales,Chicago,16,71000
+246,57,Masters,Engineer,Marketing,Chicago,1,66000
+780,26,Bachelors,Manager,Sales,San Francisco,21,86000
+806,36,Bachelors,Engineer,HR,Chicago,17,72000
+481,58,Bachelors,Analyst,Marketing,Chicago,20,70000
+411,24,High School,Scientist,HR,New York,24,79000
+87,56,Bachelors,Engineer,HR,New York,5,60000
+489,31,PhD,Manager,R&D,San Francisco,4,89000
+66,59,Masters,Engineer,R&D,Chicago,27,92000
+544,23,Bachelors,Engineer,R&D,Boston,1,56000
+955,52,Bachelors,Engineer,R&D,New York,26,81000
+274,23,Masters,Engineer,HR,New York,26,91000
+418,31,High School,Engineer,R&D,San Francisco,29,79000
+268,50,PhD,Analyst,HR,San Francisco,25,95000
+712,27,High School,Engineer,R&D,New York,13,63000
+94,56,PhD,Scientist,R&D,New York,5,85000
+870,45,Masters,Manager,R&D,San Francisco,28,103000
+945,25,High School,Engineer,HR,San Francisco,8,58000
+606,35,Masters,Scientist,R&D,San Francisco,25,95000
+990,28,Masters,Manager,R&D,Boston,6,81000
+756,62,Bachelors,Analyst,HR,New York,3,53000
+78,27,Bachelors,Manager,Sales,Boston,22,87000
+258,57,Masters,Analyst,R&D,San Francisco,22,82000
+672,23,Bachelors,Engineer,HR,New York,28,83000
+38,53,Bachelors,Scientist,R&D,Boston,2,62000
+310,48,Bachelors,Engineer,Sales,Chicago,16,71000
+763,26,Bachelors,Scientist,R&D,Boston,18,78000
+737,42,Masters,Engineer,R&D,Chicago,11,76000
+647,30,Bachelors,Engineer,R&D,San Francisco,12,67000
+383,28,Masters,Engineer,R&D,San Francisco,1,66000
+649,25,Masters,Manager,R&D,New York,8,83000
+961,44,Bachelors,Analyst,R&D,Boston,7,57000
+217,40,High School,Scientist,HR,New York,4,59000
+12,45,Bachelors,Manager,Sales,San Francisco,8,73000
+342,36,Masters,Manager,Sales,New York,27,102000
+22,34,Bachelors,Engineer,Marketing,Chicago,19,74000
+121,41,Bachelors,Manager,R&D,New York,14,79000
+732,27,High School,Engineer,R&D,Boston,5,55000
+653,58,Masters,Scientist,R&D,Boston,9,79000
+659,31,Masters,Engineer,Marketing,San Francisco,15,80000
+978,34,PhD,Scientist,R&D,New York,20,100000
+216,48,Masters,Analyst,R&D,New York,21,81000
+807,59,PhD,Engineer,Sales,New York,10,85000
+39,22,Bachelors,Engineer,R&D,San Francisco,9,64000
+396,54,Bachelors,Scientist,Marketing,New York,23,83000
+338,34,High School,Analyst,R&D,Boston,22,67000
+762,51,Bachelors,Engineer,R&D,Chicago,1,56000
+944,57,PhD,Engineer,Marketing,New York,17,92000
+505,23,High School,Engineer,R&D,San Francisco,6,56000
+148,64,PhD,Analyst,HR,San Francisco,16,86000
+6,40,Bachelors,Engineer,R&D,San Francisco,11,66000
+35,40,Masters,Engineer,R&D,New York,10,75000
+535,36,Bachelors,Analyst,Marketing,Chicago,23,73000
+724,36,Bachelors,Engineer,Marketing,New York,13,68000
+739,33,Bachelors,Engineer,R&D,New York,23,78000
+203,26,Bachelors,Engineer,R&D,San Francisco,3,58000
+648,39,Masters,Engineer,Marketing,San Francisco,23,88000
+256,48,High School,Analyst,R&D,New York,2,47000
+691,39,Bachelors,Scientist,R&D,Boston,13,73000
+946,55,Masters,Analyst,R&D,San Francisco,21,81000
+428,56,High School,Manager,R&D,Chicago,25,85000
+621,26,Bachelors,Engineer,HR,Chicago,6,61000
+996,37,Bachelors,Scientist,Sales,Chicago,17,77000
+266,39,Bachelors,Scientist,HR,New York,23,83000
+88,44,High School,Scientist,HR,New York,10,65000
+605,31,PhD,Scientist,R&D,San Francisco,9,89000
+419,61,High School,Manager,R&D,New York,17,77000
+339,26,High School,Engineer,R&D,San Francisco,12,62000
+853,41,Bachelors,Engineer,R&D,New York,18,73000
+938,41,High School,Analyst,Sales,New York,22,67000
+815,48,Bachelors,Engineer,HR,Boston,7,62000
+374,28,High School,Analyst,R&D,Chicago,26,71000
+965,50,High School,Engineer,Sales,San Francisco,8,58000
+660,41,PhD,Engineer,R&D,New York,18,93000
+513,44,High School,Engineer,Marketing,Chicago,25,75000
+566,45,Masters,Manager,Sales,Chicago,26,101000
+40,30,PhD,Manager,HR,Boston,4,89000
+424,41,PhD,Manager,Sales,New York,5,90000
+495,35,Masters,Scientist,Sales,San Francisco,9,79000
+83,61,PhD,Analyst,Sales,Boston,23,93000
+114,23,High School,Manager,Sales,New York,27,87000
+583,58,Masters,Analyst,R&D,San Francisco,22,82000
+270,23,Masters,Engineer,HR,Chicago,22,87000
+585,30,High School,Engineer,Marketing,Boston,5,55000
+694,49,High School,Engineer,HR,Chicago,13,63000
+349,31,Bachelors,Engineer,Sales,Chicago,6,61000
+183,36,Bachelors,Scientist,Sales,New York,9,69000
+994,30,Bachelors,Engineer,Sales,Boston,6,61000
+925,51,High School,Engineer,Marketing,Boston,11,61000
+21,46,High School,Engineer,R&D,San Francisco,18,68000
+789,33,Masters,Engineer,HR,Boston,19,84000
+26,37,High School,Manager,HR,San Francisco,23,83000
+589,52,High School,Manager,R&D,New York,10,70000
+454,53,Bachelors,Scientist,Marketing,Chicago,1,61000
+245,61,Bachelors,Analyst,R&D,New York,18,68000
+200,59,PhD,Engineer,Sales,Chicago,1,76000
+448,55,Masters,Engineer,Sales,San Francisco,23,88000
+176,57,High School,Engineer,Sales,New York,28,78000
+901,53,Bachelors,Engineer,R&D,San Francisco,11,66000
+133,23,Masters,Manager,Sales,New York,2,77000
+570,58,High School,Manager,R&D,San Francisco,27,87000
+791,28,Bachelors,Scientist,R&D,Boston,22,82000
+981,43,High School,Manager,Marketing,New York,21,81000
+455,30,Bachelors,Scientist,Marketing,San Francisco,29,89000
+11,45,Masters,Engineer,HR,New York,23,88000
+122,38,Masters,Manager,R&D,San Francisco,5,80000
+652,33,Bachelors,Scientist,Sales,Chicago,9,69000
+969,36,Masters,Analyst,R&D,Chicago,26,86000
+166,37,PhD,Scientist,HR,Chicago,8,88000
+163,43,Bachelors,Scientist,Marketing,Boston,5,65000
+446,27,High School,Engineer,Sales,San Francisco,24,74000
+769,37,High School,Scientist,R&D,New York,8,63000
+265,54,High School,Manager,Marketing,Chicago,12,72000
+430,33,High School,Engineer,R&D,New York,5,55000
+305,57,High School,Manager,Marketing,Boston,18,78000
+842,57,High School,Engineer,R&D,New York,29,79000
+835,58,Bachelors,Scientist,R&D,San Francisco,28,88000
+395,41,High School,Analyst,Sales,Boston,6,51000
+465,48,High School,Engineer,R&D,New York,16,66000
+1000,49,High School,Engineer,R&D,Boston,21,71000
+466,24,PhD,Analyst,HR,San Francisco,25,95000
+757,42,Masters,Scientist,HR,San Francisco,27,97000
+636,38,Bachelors,Scientist,R&D,Chicago,2,62000
+42,52,High School,Engineer,Marketing,San Francisco,3,53000
+723,33,Bachelors,Analyst,R&D,Chicago,25,75000
+750,42,Bachelors,Engineer,R&D,Chicago,2,57000
+131,61,Masters,Engineer,Marketing,Boston,7,72000
+330,41,Bachelors,Scientist,Marketing,San Francisco,17,77000
+177,27,Masters,Scientist,R&D,San Francisco,5,75000
+717,64,PhD,Manager,R&D,Boston,29,114000
+56,36,PhD,Scientist,R&D,New York,29,109000
+18,45,Bachelors,Engineer,Sales,New York,21,76000
+923,25,Bachelors,Manager,R&D,San Francisco,18,83000
+976,32,Masters,Manager,Marketing,San Francisco,18,93000
+426,30,Bachelors,Engineer,Marketing,Boston,2,57000
+593,46,PhD,Scientist,R&D,Chicago,24,104000
+622,51,Bachelors,Analyst,R&D,Chicago,8,58000
+297,49,PhD,Scientist,Sales,Boston,14,94000
+230,47,High School,Engineer,HR,New York,17,67000
+381,27,Masters,Analyst,Marketing,Chicago,27,87000
+726,44,Masters,Engineer,R&D,New York,20,85000
+222,24,Bachelors,Engineer,Marketing,Boston,11,66000
+284,28,Bachelors,Manager,HR,San Francisco,13,78000
+632,35,Bachelors,Manager,HR,Chicago,6,71000
+24,30,High School,Scientist,R&D,New York,14,69000
+504,56,High School,Scientist,HR,San Francisco,26,81000
+127,57,Masters,Engineer,R&D,San Francisco,22,87000
+881,47,High School,Manager,R&D,San Francisco,5,65000
+918,56,Bachelors,Manager,R&D,Boston,12,77000
+529,32,High School,Scientist,R&D,San Francisco,21,76000
+904,44,PhD,Engineer,HR,New York,23,98000
+161,24,Bachelors,Engineer,R&D,New York,15,70000
+32,45,Bachelors,Manager,R&D,New York,22,87000
+325,53,High School,Scientist,R&D,New York,10,65000
+496,53,High School,Analyst,HR,Boston,19,64000
+328,43,High School,Scientist,HR,Chicago,10,65000
+344,32,Bachelors,Engineer,HR,Boston,10,65000
+933,38,PhD,Engineer,Marketing,Chicago,15,90000
+333,43,Bachelors,Analyst,HR,Boston,2,52000
+612,31,Masters,Scientist,HR,Boston,5,75000
+231,24,Masters,Manager,R&D,San Francisco,2,77000
+913,22,Masters,Analyst,R&D,Boston,8,68000
+620,38,PhD,Engineer,R&D,San Francisco,3,78000
+409,38,Masters,Engineer,Sales,San Francisco,21,86000
+765,58,High School,Engineer,Sales,Chicago,24,74000
+937,42,High School,Engineer,HR,Boston,18,68000
+635,54,Bachelors,Engineer,R&D,Chicago,3,58000
+777,60,Bachelors,Scientist,R&D,Boston,19,79000
+781,57,PhD,Engineer,R&D,New York,26,101000
+204,44,Bachelors,Scientist,Marketing,Chicago,1,61000
+350,48,High School,Scientist,Marketing,Chicago,2,57000
+664,37,High School,Analyst,Sales,Chicago,5,50000
+14,22,Bachelors,Engineer,HR,Chicago,3,58000
+666,49,High School,Scientist,Sales,Boston,14,69000
+963,24,Masters,Manager,Marketing,Chicago,18,93000
+831,28,High School,Analyst,Sales,San Francisco,27,72000
+871,37,PhD,Analyst,R&D,Chicago,16,86000
+624,24,Masters,Manager,Marketing,San Francisco,19,94000
+533,27,Bachelors,Engineer,R&D,New York,20,75000
+581,49,Bachelors,Manager,Marketing,San Francisco,8,73000
+70,21,Masters,Analyst,Marketing,Chicago,23,83000
+778,43,Bachelors,Scientist,Sales,New York,10,70000
+186,61,Bachelors,Engineer,Marketing,Boston,23,78000
+588,42,Masters,Scientist,R&D,Chicago,17,87000
+435,64,Bachelors,Engineer,Marketing,Boston,9,64000
+677,25,Bachelors,Scientist,Sales,San Francisco,13,73000
+926,23,Bachelors,Scientist,R&D,San Francisco,13,73000
+312,44,Masters,Manager,Marketing,Chicago,9,84000
+928,24,High School,Scientist,HR,New York,15,70000
+169,42,High School,Engineer,R&D,San Francisco,25,75000
+196,39,High School,Manager,HR,Boston,14,74000
+893,40,High School,Scientist,HR,San Francisco,22,77000
+267,38,Bachelors,Engineer,Marketing,New York,5,60000
+639,53,Bachelors,Engineer,R&D,San Francisco,11,66000
+899,47,Bachelors,Manager,R&D,Chicago,24,89000
+220,41,Bachelors,Engineer,R&D,Chicago,20,75000
+237,60,Masters,Analyst,Sales,Chicago,1,61000
+751,39,Masters,Analyst,Marketing,New York,28,88000
+792,37,PhD,Analyst,Sales,Boston,23,93000
+487,59,Bachelors,Engineer,Sales,San Francisco,7,62000
+591,56,Masters,Scientist,Marketing,Chicago,3,73000
+393,51,Masters,Scientist,HR,New York,8,78000
+54,61,PhD,Manager,R&D,Chicago,5,90000
+164,34,Bachelors,Engineer,R&D,New York,9,64000
+614,46,PhD,Engineer,Sales,Boston,27,102000
+858,58,Bachelors,Scientist,Sales,New York,7,67000
+538,64,Masters,Analyst,Sales,New York,7,67000
+511,34,High School,Analyst,R&D,Boston,24,69000
+239,54,PhD,Manager,R&D,Boston,18,103000
+564,21,Masters,Scientist,HR,New York,25,95000
+104,55,High School,Scientist,R&D,Boston,17,72000
+887,58,High School,Manager,HR,San Francisco,11,71000
+700,63,Bachelors,Manager,Sales,New York,6,71000
+886,36,PhD,Manager,Marketing,Boston,7,92000
+389,45,PhD,Scientist,Sales,Chicago,2,82000
+548,48,High School,Scientist,Marketing,Chicago,15,70000
+195,24,Bachelors,Scientist,R&D,San Francisco,16,76000
+477,30,Masters,Scientist,R&D,San Francisco,28,98000
+843,22,Masters,Manager,Sales,Chicago,20,95000
+120,56,Masters,Engineer,Sales,San Francisco,26,91000
+159,53,High School,Scientist,Marketing,Boston,5,60000
+754,51,Bachelors,Engineer,HR,Boston,20,75000
+626,61,High School,Engineer,R&D,San Francisco,16,66000
+49,21,Bachelors,Manager,HR,Boston,10,75000
+308,24,High School,Engineer,Marketing,Chicago,23,73000
+719,57,High School,Engineer,HR,Boston,16,66000
+403,28,High School,Scientist,R&D,Chicago,19,74000
+152,40,Bachelors,Engineer,R&D,San Francisco,7,62000
+242,45,High School,Engineer,R&D,Chicago,22,72000
+463,24,Bachelors,Scientist,R&D,Chicago,26,86000
+959,59,Masters,Manager,Marketing,Chicago,10,85000
+697,46,Bachelors,Engineer,R&D,New York,17,72000
+575,41,Bachelors,Analyst,HR,San Francisco,18,68000
+851,40,Bachelors,Engineer,Sales,Chicago,7,62000
+417,37,Bachelors,Engineer,R&D,Chicago,29,84000
+970,35,Masters,Engineer,R&D,Boston,19,84000
+825,60,PhD,Scientist,R&D,New York,18,98000
+713,40,High School,Manager,R&D,San Francisco,5,65000
+160,25,Bachelors,Engineer,R&D,New York,8,63000
+375,37,Masters,Engineer,Sales,Boston,13,78000
+37,60,Bachelors,Engineer,Marketing,Chicago,18,73000
+359,22,PhD,Scientist,HR,New York,4,84000
+643,64,High School,Engineer,HR,Chicago,2,52000
+27,26,High School,Engineer,Sales,Chicago,26,76000
+897,54,Masters,Scientist,HR,Chicago,3,73000
+521,36,Bachelors,Manager,Marketing,San Francisco,12,77000
+391,57,Masters,Scientist,Marketing,New York,4,74000
+746,64,PhD,Engineer,Marketing,Chicago,11,86000
+392,44,PhD,Analyst,Sales,Chicago,20,90000
+803,58,Bachelors,Scientist,Sales,Chicago,16,76000
+671,30,Bachelors,Engineer,Sales,New York,7,62000
+214,61,Masters,Engineer,HR,San Francisco,15,80000
+198,63,Masters,Engineer,R&D,San Francisco,11,76000
+309,29,Bachelors,Engineer,R&D,Boston,26,81000
+786,33,High School,Engineer,R&D,New York,7,57000
+171,37,Masters,Engineer,Sales,Boston,12,77000
+106,34,Masters,Scientist,HR,San Francisco,4,74000
+826,51,Masters,Manager,R&D,San Francisco,1,76000
+552,50,PhD,Engineer,R&D,Boston,11,86000
+173,54,Bachelors,Engineer,Sales,Chicago,9,64000
+734,59,PhD,Manager,HR,San Francisco,6,91000
+347,49,Bachelors,Engineer,R&D,Boston,4,59000
+561,47,Bachelors,Engineer,Marketing,New York,14,69000
+911,59,Bachelors,Manager,R&D,New York,27,92000
+722,54,Bachelors,Engineer,Sales,San Francisco,21,76000
+936,55,Masters,Manager,Marketing,Boston,11,86000
+74,63,Bachelors,Engineer,R&D,Boston,16,71000
+423,52,High School,Engineer,Sales,Chicago,8,58000
+867,54,Masters,Manager,R&D,San Francisco,25,100000
+29,21,PhD,Manager,R&D,San Francisco,12,97000
+837,64,Masters,Manager,R&D,Chicago,2,77000
+840,38,Masters,Manager,Sales,New York,4,79000
+23,29,Bachelors,Engineer,HR,Chicago,22,77000
+964,47,Bachelors,Analyst,Sales,New York,14,64000
+500,25,Masters,Analyst,R&D,Chicago,3,63000
+785,49,High School,Manager,R&D,Chicago,11,71000
+401,54,High School,Engineer,Marketing,Boston,23,73000
+801,30,Bachelors,Manager,R&D,Chicago,3,68000
+224,60,High School,Engineer,Marketing,New York,23,73000
+924,45,Bachelors,Scientist,HR,Chicago,20,80000
+79,25,High School,Scientist,Sales,Boston,20,75000
+679,31,Bachelors,Manager,R&D,Chicago,9,74000
+916,26,Masters,Scientist,Sales,New York,3,73000
+577,49,Bachelors,Analyst,Marketing,New York,15,65000
+973,28,Bachelors,Manager,HR,New York,8,73000
+617,39,PhD,Engineer,HR,Chicago,23,98000
+145,24,Bachelors,Scientist,Marketing,Boston,24,84000
+125,62,High School,Scientist,R&D,Chicago,22,77000
+590,38,Bachelors,Scientist,HR,New York,10,70000
+474,48,Masters,Scientist,R&D,Chicago,9,79000
+758,27,High School,Engineer,HR,Chicago,22,72000
+105,63,Bachelors,Engineer,R&D,San Francisco,13,68000
+771,31,PhD,Manager,Sales,San Francisco,22,107000
+674,46,Bachelors,Engineer,R&D,New York,4,59000
+313,53,Masters,Engineer,Marketing,San Francisco,28,93000
+168,50,Masters,Manager,Sales,Chicago,27,102000
+317,44,High School,Engineer,Marketing,Chicago,25,75000
+542,22,Bachelors,Engineer,Marketing,Boston,23,78000
+77,25,High School,Engineer,R&D,New York,4,54000
+695,29,High School,Scientist,HR,Chicago,25,80000
+930,32,Bachelors,Manager,R&D,San Francisco,17,82000
+494,47,Bachelors,Scientist,R&D,Boston,15,75000
+631,54,PhD,Scientist,R&D,Boston,18,98000
+436,24,Bachelors,Manager,Marketing,Chicago,1,66000
+353,39,High School,Scientist,Sales,San Francisco,27,82000
+682,54,PhD,Scientist,R&D,New York,24,104000
+323,57,Bachelors,Manager,Sales,Chicago,5,70000
+276,42,High School,Scientist,Sales,San Francisco,2,57000
+467,59,High School,Manager,R&D,Boston,23,83000
+800,37,Bachelors,Engineer,Marketing,New York,20,75000
+462,28,PhD,Engineer,HR,Chicago,4,79000
+846,37,PhD,Scientist,R&D,San Francisco,19,99000
+320,21,PhD,Engineer,R&D,San Francisco,16,91000
+628,45,High School,Engineer,Marketing,New York,17,67000
+619,25,Bachelors,Engineer,Marketing,Chicago,27,82000
+980,25,Masters,Scientist,Marketing,Chicago,28,98000
+153,52,PhD,Engineer,Sales,Chicago,22,97000
+118,24,Bachelors,Engineer,R&D,Chicago,10,65000
+215,23,High School,Manager,R&D,Chicago,4,64000
+610,63,High School,Analyst,Marketing,San Francisco,27,72000
+337,29,PhD,Engineer,HR,San Francisco,16,91000
+488,46,Bachelors,Engineer,Marketing,Chicago,29,84000
+501,50,High School,Scientist,HR,San Francisco,15,70000
+783,57,High School,Scientist,HR,Boston,16,71000
+823,44,Masters,Analyst,HR,New York,17,77000
+747,36,Bachelors,Manager,R&D,San Francisco,10,75000
+921,41,High School,Scientist,R&D,Chicago,3,58000
+135,53,Bachelors,Scientist,R&D,New York,10,70000
+421,48,Bachelors,Analyst,Marketing,Boston,6,56000
+692,41,PhD,Scientist,R&D,New York,14,94000
+348,47,Masters,Engineer,R&D,San Francisco,6,71000
+331,39,Masters,Manager,R&D,New York,8,83000
+41,53,Bachelors,Engineer,HR,Boston,4,59000
+190,50,High School,Scientist,Sales,New York,1,56000
+967,26,Bachelors,Scientist,Marketing,New York,10,70000
+208,61,Bachelors,Engineer,Marketing,San Francisco,25,80000
+517,47,Bachelors,Analyst,R&D,San Francisco,2,52000
+950,40,Bachelors,Engineer,R&D,Boston,1,56000
+604,47,Masters,Manager,HR,Chicago,7,82000
+693,51,PhD,Analyst,Sales,New York,27,97000
+836,40,Bachelors,Engineer,R&D,Boston,4,59000
+319,38,High School,Analyst,Sales,San Francisco,13,58000
+486,61,High School,Engineer,HR,San Francisco,12,62000
+146,51,High School,Analyst,Marketing,San Francisco,18,63000
+956,27,High School,Manager,HR,San Francisco,18,78000
+896,32,Bachelors,Scientist,Sales,New York,11,71000
+966,23,High School,Scientist,HR,Chicago,22,77000
+629,54,Bachelors,Engineer,R&D,Boston,19,74000
+373,34,Bachelors,Manager,R&D,New York,28,93000
+76,32,Bachelors,Manager,Marketing,Chicago,19,84000
+828,55,Bachelors,Scientist,Sales,Chicago,3,63000
+827,47,Bachelors,Engineer,Sales,Boston,16,71000
+689,46,Bachelors,Manager,Marketing,New York,9,74000
+775,50,Masters,Manager,R&D,Chicago,3,78000
+180,34,Bachelors,Analyst,Marketing,Boston,2,52000
+656,47,Masters,Engineer,R&D,San Francisco,2,67000
+833,25,High School,Scientist,R&D,Chicago,14,69000
+408,57,Bachelors,Manager,Marketing,Chicago,10,75000
+811,37,Masters,Manager,Sales,New York,13,88000
+558,23,Bachelors,Engineer,R&D,San Francisco,6,61000
+889,38,Bachelors,Scientist,Marketing,Chicago,4,64000
+510,25,PhD,Engineer,Marketing,Chicago,2,77000
+569,24,Bachelors,Scientist,R&D,San Francisco,3,63000
+236,28,Masters,Scientist,R&D,New York,23,93000
+103,24,High School,Scientist,R&D,New York,16,71000
+351,56,High School,Scientist,R&D,San Francisco,4,59000
+824,35,Masters,Manager,Marketing,Chicago,16,91000
+187,36,Bachelors,Manager,R&D,San Francisco,4,69000
+206,53,Masters,Engineer,R&D,Chicago,25,90000
+998,22,High School,Scientist,HR,San Francisco,28,83000
+314,40,Bachelors,Engineer,R&D,Boston,11,66000
+405,30,High School,Manager,HR,Chicago,12,72000
+456,26,Masters,Analyst,HR,New York,21,81000
+64,62,Bachelors,Scientist,Sales,Chicago,1,61000
+884,27,Bachelors,Engineer,R&D,New York,5,60000
+519,43,High School,Engineer,R&D,New York,28,78000
+445,26,Masters,Engineer,Sales,San Francisco,10,75000
+444,56,Bachelors,Scientist,HR,Chicago,8,68000
+113,44,PhD,Analyst,R&D,San Francisco,9,79000
+559,29,High School,Scientist,HR,New York,12,67000
+48,55,Masters,Engineer,R&D,New York,28,93000
+277,60,Masters,Analyst,HR,New York,19,79000
+366,63,Bachelors,Scientist,HR,New York,10,70000
+794,21,Masters,Engineer,R&D,San Francisco,12,77000
+498,54,High School,Scientist,HR,Boston,6,61000
+883,46,Masters,Scientist,HR,Boston,2,72000
+336,28,Bachelors,Manager,R&D,New York,2,67000
+65,56,Bachelors,Engineer,R&D,San Francisco,13,68000
+67,32,Masters,Manager,HR,New York,9,84000
+451,49,Masters,Manager,R&D,Chicago,25,100000
+182,45,Bachelors,Engineer,Sales,Chicago,14,69000
+989,58,Masters,Scientist,R&D,New York,22,92000
+249,55,Bachelors,Analyst,Marketing,Chicago,14,64000
+332,25,High School,Engineer,R&D,New York,14,64000
+931,34,Bachelors,Engineer,Marketing,New York,22,77000
+362,51,Bachelors,Engineer,Marketing,Chicago,5,60000
+512,51,PhD,Analyst,R&D,New York,28,98000
+483,29,Bachelors,Scientist,Sales,Chicago,7,67000
+63,60,High School,Engineer,R&D,New York,4,54000
+269,41,Masters,Manager,R&D,San Francisco,10,85000
+365,56,PhD,Scientist,R&D,New York,6,86000
+859,50,Masters,Analyst,R&D,San Francisco,29,89000
+471,52,Bachelors,Engineer,Sales,San Francisco,22,77000
+860,62,Bachelors,Analyst,Sales,New York,15,65000
+298,64,Bachelors,Scientist,R&D,New York,4,64000
+287,64,Bachelors,Scientist,Sales,San Francisco,23,83000
+661,63,High School,Manager,R&D,San Francisco,29,89000
+546,35,Bachelors,Scientist,Sales,Chicago,23,83000
+427,48,Masters,Engineer,R&D,San Francisco,27,92000
+863,61,High School,Engineer,Marketing,Chicago,25,75000
+272,58,PhD,Manager,R&D,New York,22,107000
+440,21,High School,Scientist,R&D,New York,14,69000
+439,22,Bachelors,Analyst,HR,Boston,3,53000
+73,33,High School,Engineer,HR,San Francisco,7,57000
+520,33,High School,Engineer,Sales,San Francisco,1,51000
+752,46,Masters,Manager,Sales,San Francisco,22,97000
+788,40,Bachelors,Manager,Sales,San Francisco,12,77000
+909,26,Bachelors,Scientist,Sales,Chicago,18,78000
+549,57,Masters,Scientist,HR,Boston,5,75000
+779,40,Bachelors,Engineer,Marketing,Boston,19,74000
+149,34,PhD,Engineer,Sales,San Francisco,24,99000
+232,52,Bachelors,Scientist,Marketing,San Francisco,21,81000
+263,51,High School,Scientist,R&D,Boston,27,82000
+431,39,Bachelors,Scientist,R&D,Boston,11,71000
+855,31,High School,Scientist,Marketing,Chicago,21,76000
+782,40,PhD,Scientist,R&D,Boston,13,93000
+903,39,Masters,Scientist,R&D,San Francisco,12,82000
+438,57,High School,Manager,HR,San Francisco,3,63000
+557,37,Bachelors,Engineer,Marketing,Chicago,21,76000
+360,27,High School,Scientist,HR,Chicago,12,67000
+89,36,Bachelors,Engineer,R&D,Boston,3,58000
+225,30,High School,Scientist,Sales,San Francisco,14,69000
+247,21,Masters,Engineer,R&D,New York,6,71000
+119,39,High School,Scientist,R&D,Chicago,29,84000
+864,63,High School,Scientist,Sales,New York,25,80000
+248,32,High School,Engineer,R&D,Boston,29,79000
+264,50,Bachelors,Engineer,HR,Chicago,6,61000
+156,23,Masters,Analyst,Sales,Boston,28,88000
+167,45,Masters,Engineer,R&D,San Francisco,24,89000
+894,43,Bachelors,Manager,Sales,Boston,7,72000
+147,55,Bachelors,Engineer,Marketing,Boston,11,66000
+450,54,Bachelors,Scientist,R&D,San Francisco,20,80000
+992,35,Bachelors,Analyst,Sales,Chicago,11,61000
+480,42,High School,Analyst,HR,New York,16,61000
+95,21,Bachelors,Engineer,Marketing,San Francisco,4,59000
+110,21,Bachelors,Engineer,R&D,Chicago,16,71000
+984,32,High School,Engineer,R&D,San Francisco,23,73000
+394,46,Bachelors,Manager,HR,Chicago,21,86000
+935,27,High School,Engineer,R&D,New York,15,65000
+98,51,Bachelors,Manager,R&D,Chicago,13,78000
+968,28,Bachelors,Scientist,R&D,Chicago,16,76000
+223,56,Masters,Manager,Sales,San Francisco,27,102000
+518,47,High School,Scientist,R&D,Boston,15,70000
+490,55,Masters,Engineer,Sales,New York,11,76000
+743,26,Bachelors,Scientist,R&D,Boston,22,82000
+226,30,Bachelors,Scientist,Sales,New York,14,74000
+116,56,Masters,Engineer,Marketing,Chicago,26,91000
+458,28,High School,Engineer,Marketing,San Francisco,1,51000
+289,62,High School,Scientist,Sales,Chicago,20,75000
+580,49,Masters,Engineer,R&D,Boston,17,82000
+813,28,PhD,Engineer,HR,Chicago,16,91000
+51,57,Bachelors,Scientist,R&D,Boston,14,74000
+854,63,High School,Engineer,Sales,Boston,29,79000
+316,28,PhD,Manager,Marketing,San Francisco,18,103000
+587,34,High School,Scientist,Sales,New York,18,73000
+407,40,Masters,Engineer,R&D,Chicago,17,82000
+497,27,Masters,Scientist,R&D,New York,4,74000
+75,41,High School,Engineer,Sales,San Francisco,22,72000
+573,45,PhD,Scientist,R&D,New York,17,97000
+817,43,PhD,Engineer,R&D,San Francisco,18,93000
+410,41,PhD,Engineer,R&D,New York,28,103000
+322,49,Masters,Manager,R&D,New York,26,101000
+991,50,High School,Scientist,Marketing,New York,13,68000
+388,44,High School,Engineer,R&D,New York,3,53000
+244,26,Bachelors,Manager,Marketing,San Francisco,23,88000
+257,61,Masters,Engineer,Marketing,Boston,24,89000
+420,51,PhD,Manager,Sales,Boston,18,103000
+157,24,Bachelors,Scientist,R&D,New York,17,77000
+58,62,Bachelors,Scientist,Marketing,Chicago,17,77000
+85,36,High School,Scientist,Sales,Boston,5,60000
+948,55,Bachelors,Scientist,HR,New York,3,63000
+30,39,High School,Engineer,Marketing,New York,12,62000
+701,49,High School,Engineer,R&D,New York,24,74000
+579,23,PhD,Engineer,R&D,San Francisco,27,102000
+872,56,Masters,Scientist,R&D,Chicago,3,73000
+461,41,Bachelors,Analyst,R&D,San Francisco,19,69000
+675,57,Bachelors,Analyst,HR,Chicago,5,55000
+900,28,Bachelors,Scientist,R&D,New York,25,85000
+809,54,Masters,Engineer,R&D,Boston,20,85000
+3,24,High School,Engineer,R&D,New York,25,75000
+627,57,High School,Manager,R&D,Chicago,7,67000
+603,33,Masters,Engineer,R&D,Chicago,10,75000
+318,34,Bachelors,Scientist,HR,Chicago,21,81000
+868,51,Masters,Scientist,Marketing,Boston,21,91000
+473,26,Bachelors,Scientist,HR,New York,21,81000
+574,27,High School,Scientist,Marketing,New York,8,63000
+283,27,High School,Manager,Marketing,San Francisco,28,88000
+464,42,Bachelors,Manager,HR,Boston,28,93000
+641,44,Masters,Engineer,R&D,Boston,11,76000
+920,36,High School,Manager,Sales,Chicago,13,73000
+415,57,Bachelors,Analyst,HR,Boston,27,77000
+650,28,High School,Engineer,HR,Chicago,4,54000
+644,62,High School,Analyst,Sales,New York,1,46000
+280,43,High School,Engineer,R&D,New York,7,57000
+189,59,Bachelors,Manager,HR,New York,1,66000
+238,42,High School,Scientist,Marketing,San Francisco,2,57000
+59,63,High School,Scientist,R&D,Chicago,20,75000
+708,24,High School,Engineer,HR,New York,18,68000
+218,46,PhD,Engineer,HR,San Francisco,11,86000
+602,27,Masters,Analyst,Marketing,Boston,24,84000
+4,60,Bachelors,Engineer,HR,San Francisco,24,79000
+744,64,Bachelors,Manager,R&D,Boston,10,75000
+699,60,Bachelors,Manager,Marketing,San Francisco,29,94000
+912,57,Masters,Scientist,Marketing,Boston,9,79000
+849,43,Bachelors,Manager,R&D,San Francisco,16,81000
+102,50,High School,Manager,Sales,New York,2,62000
+425,27,Masters,Engineer,Marketing,Boston,12,77000
+940,38,High School,Engineer,R&D,Chicago,6,56000
+205,64,Bachelors,Scientist,Sales,New York,15,75000
+219,44,High School,Engineer,Marketing,Chicago,17,67000
+759,57,Bachelors,Scientist,R&D,New York,5,65000
+124,35,PhD,Scientist,Marketing,Chicago,2,82000
+100,57,High School,Analyst,Marketing,Boston,29,74000
+20,58,Bachelors,Scientist,Sales,New York,5,65000
+491,44,Masters,Scientist,Sales,Chicago,14,84000
+281,51,Bachelors,Scientist,Marketing,San Francisco,24,84000
+143,45,Masters,Engineer,HR,New York,22,87000
+515,56,Masters,Scientist,R&D,Chicago,4,74000
+243,54,Bachelors,Manager,Sales,Chicago,1,66000
+776,47,Bachelors,Engineer,R&D,Chicago,26,81000
+254,38,Bachelors,Engineer,R&D,San Francisco,17,72000
+540,28,Bachelors,Scientist,Marketing,Chicago,2,62000
+93,62,Masters,Engineer,Marketing,New York,11,76000
+740,50,Masters,Manager,HR,Chicago,20,95000
+109,30,High School,Engineer,HR,Chicago,10,60000
+611,24,Bachelors,Manager,Sales,San Francisco,2,67000
+847,59,PhD,Engineer,HR,Boston,6,81000
+741,30,PhD,Engineer,R&D,San Francisco,27,102000
+364,47,High School,Scientist,R&D,San Francisco,11,66000
+565,26,Bachelors,Scientist,Sales,San Francisco,6,66000
+123,48,Bachelors,Engineer,Marketing,New York,16,71000
+240,55,High School,Scientist,HR,San Francisco,17,72000
+144,23,High School,Scientist,Sales,New York,4,59000
+686,54,Masters,Manager,Marketing,New York,4,79000
+329,49,Bachelors,Engineer,R&D,New York,10,65000
+346,60,Masters,Scientist,HR,Boston,17,87000
+555,53,Bachelors,Analyst,R&D,Boston,21,71000
+55,38,Bachelors,Manager,HR,San Francisco,11,76000
+528,31,High School,Analyst,R&D,Boston,13,58000
+879,44,Masters,Scientist,R&D,San Francisco,14,84000
+895,32,High School,Manager,HR,Boston,13,73000
+36,35,PhD,Engineer,R&D,Boston,18,93000
+295,48,High School,Engineer,R&D,Chicago,2,52000
+170,46,Bachelors,Engineer,Marketing,Boston,4,59000
+422,64,Bachelors,Engineer,R&D,San Francisco,16,71000
+82,57,PhD,Scientist,R&D,New York,12,92000
+584,26,Bachelors,Scientist,R&D,Chicago,23,83000
+556,62,Masters,Engineer,Marketing,New York,29,94000
+885,45,Masters,Engineer,Marketing,San Francisco,5,70000
+905,42,High School,Scientist,R&D,Chicago,9,64000
+503,38,Bachelors,Engineer,HR,Boston,20,75000
+657,50,Bachelors,Engineer,Sales,New York,10,65000
+385,46,PhD,Engineer,Sales,Chicago,18,93000
+80,24,Bachelors,Engineer,Marketing,New York,24,79000
+300,62,High School,Engineer,R&D,Boston,13,63000
+554,33,Masters,Scientist,R&D,San Francisco,5,75000
+460,29,Bachelors,Engineer,HR,Chicago,19,74000
+507,36,Bachelors,Manager,R&D,San Francisco,13,78000
+685,53,PhD,Scientist,HR,San Francisco,25,105000
+582,59,High School,Scientist,Marketing,Chicago,19,74000
+748,33,PhD,Scientist,HR,San Francisco,14,94000
+814,44,High School,Analyst,R&D,Chicago,22,67000
+821,48,High School,Scientist,Marketing,New York,5,60000
+452,25,High School,Manager,R&D,New York,15,75000
+472,21,High School,Manager,Sales,San Francisco,11,71000
+822,32,Bachelors,Manager,R&D,New York,18,83000
+363,37,High School,Engineer,R&D,San Francisco,28,78000
+402,43,Bachelors,Manager,R&D,Chicago,26,91000
+714,55,Masters,Engineer,HR,New York,9,74000
+953,46,Bachelors,Engineer,HR,Chicago,20,75000
+576,27,High School,Engineer,Sales,Boston,21,71000
+134,37,Masters,Scientist,Marketing,Chicago,14,84000
+753,34,Bachelors,Scientist,Sales,Chicago,24,84000
+68,39,High School,Manager,R&D,Boston,18,78000
+816,28,Bachelors,Scientist,HR,San Francisco,13,73000
+165,32,Bachelors,Engineer,R&D,San Francisco,4,59000
+202,43,Masters,Engineer,R&D,San Francisco,2,67000
+787,47,High School,Scientist,HR,San Francisco,22,77000
+678,62,High School,Manager,Marketing,Boston,20,80000
+802,41,Masters,Analyst,R&D,New York,27,87000
+888,62,PhD,Engineer,R&D,San Francisco,11,86000
+516,30,High School,Analyst,Sales,Boston,23,68000
+442,45,Masters,Engineer,R&D,Chicago,13,78000
+625,26,Bachelors,Engineer,Marketing,Boston,25,80000
+397,58,Bachelors,Engineer,R&D,San Francisco,12,67000
+710,48,High School,Engineer,Sales,Boston,12,62000
+184,62,Masters,Manager,HR,San Francisco,20,95000
+15,59,PhD,Engineer,Marketing,San Francisco,4,79000
+616,35,High School,Manager,Sales,Boston,15,75000
+112,64,High School,Manager,Sales,San Francisco,12,72000
+993,32,Bachelors,Scientist,Sales,New York,6,66000
+563,22,Masters,Scientist,Sales,Boston,8,78000
+213,49,Masters,Scientist,R&D,Boston,23,93000
+764,36,Bachelors,Engineer,Marketing,New York,27,82000
+922,30,High School,Scientist,HR,New York,15,70000
+862,38,High School,Manager,R&D,Chicago,6,66000
+927,40,Masters,Engineer,Sales,Chicago,27,92000
+129,43,High School,Analyst,Marketing,New York,24,69000
+882,46,High School,Engineer,R&D,San Francisco,23,73000
+892,26,PhD,Engineer,HR,San Francisco,13,88000
+69,48,Bachelors,Scientist,R&D,San Francisco,16,76000
+479,28,PhD,Scientist,R&D,Boston,25,105000
+820,37,Masters,Scientist,R&D,San Francisco,15,85000
+91,42,Bachelors,Engineer,R&D,New York,9,64000
+484,64,Bachelors,Scientist,Marketing,New York,6,66000
+61,22,High School,Manager,R&D,Chicago,17,77000
+609,26,High School,Engineer,HR,New York,26,76000
+531,28,High School,Engineer,Marketing,Chicago,14,64000
+154,29,High School,Scientist,R&D,Boston,4,59000
+140,61,High School,Engineer,R&D,Chicago,6,56000
+608,28,Bachelors,Manager,HR,Chicago,10,75000
+733,27,High School,Manager,Marketing,San Francisco,16,76000
+767,52,Masters,Scientist,R&D,Chicago,18,88000
+508,57,PhD,Scientist,R&D,Boston,15,95000
+857,43,Bachelors,Scientist,Marketing,Boston,12,72000
+352,62,Bachelors,Manager,Sales,Chicago,6,71000
+16,60,Masters,Engineer,R&D,New York,21,86000
+228,44,High School,Scientist,R&D,Boston,6,61000
+985,35,Bachelors,Scientist,Sales,Boston,1,61000
+211,64,PhD,Engineer,R&D,New York,11,86000
+797,31,Bachelors,Manager,HR,New York,9,74000
+986,39,Bachelors,Manager,HR,Chicago,16,81000
+646,33,Masters,Scientist,R&D,Chicago,26,96000
+13,33,Masters,Engineer,R&D,New York,9,74000
+292,30,High School,Scientist,Marketing,New York,20,75000
+327,35,Bachelors,Engineer,Sales,New York,4,59000
+586,57,PhD,Manager,R&D,Boston,4,89000
+334,56,Bachelors,Scientist,HR,New York,17,77000
+551,50,Bachelors,Scientist,Marketing,Boston,6,66000
+261,60,Bachelors,Engineer,R&D,Chicago,17,72000
+731,31,Masters,Manager,R&D,New York,20,95000
+492,53,Bachelors,Scientist,R&D,New York,18,78000
+371,60,PhD,Scientist,R&D,San Francisco,4,84000
+47,49,Bachelors,Manager,HR,Boston,25,90000
+795,44,Bachelors,Engineer,R&D,Chicago,27,82000
+432,31,High School,Scientist,Marketing,Chicago,12,67000
+150,61,High School,Scientist,R&D,San Francisco,17,72000
+429,40,Bachelors,Scientist,Sales,Boston,3,63000
+917,59,Masters,Manager,Sales,Chicago,2,77000
+598,46,Masters,Scientist,Sales,New York,24,94000
+17,44,Bachelors,Scientist,HR,Chicago,5,65000
+506,41,Masters,Engineer,Sales,San Francisco,24,89000
+307,45,Masters,Analyst,R&D,New York,16,76000
+107,60,Bachelors,Analyst,R&D,San Francisco,25,75000
+475,64,Bachelors,Engineer,HR,San Francisco,10,65000
+162,32,Bachelors,Scientist,R&D,Chicago,6,66000
+210,31,Bachelors,Engineer,Marketing,New York,7,62000
+690,45,High School,Engineer,HR,Chicago,21,71000
+995,32,High School,Scientist,Sales,San Francisco,21,76000
+262,56,PhD,Engineer,R&D,New York,18,93000
+571,64,High School,Scientist,R&D,San Francisco,2,57000
+81,33,High School,Manager,R&D,Boston,27,87000
+174,61,Masters,Engineer,Marketing,Chicago,29,94000
+637,50,Bachelors,Engineer,HR,San Francisco,25,80000
+942,46,Bachelors,Analyst,HR,New York,18,68000
+798,24,High School,Manager,Marketing,Boston,18,78000
+358,44,High School,Scientist,R&D,Boston,13,68000
+288,40,Bachelors,Manager,HR,San Francisco,1,66000
+357,39,High School,Manager,HR,Boston,15,75000
+271,26,Bachelors,Manager,Sales,New York,12,77000
+437,33,Masters,Scientist,Sales,Chicago,4,74000
+819,51,PhD,Scientist,R&D,San Francisco,23,103000
+975,50,Masters,Scientist,Sales,Boston,5,75000
+25,41,Bachelors,Manager,R&D,Boston,23,88000
+138,40,Masters,Engineer,R&D,New York,11,76000
+848,61,Bachelors,Manager,Sales,New York,15,80000
+404,62,Bachelors,Scientist,R&D,Boston,11,71000
+378,46,Bachelors,Engineer,Marketing,Boston,19,74000
+716,41,Bachelors,Engineer,Marketing,San Francisco,6,61000
+790,59,High School,Manager,Marketing,San Francisco,6,66000
+651,24,Bachelors,Engineer,Marketing,San Francisco,18,73000
+669,23,High School,Scientist,Marketing,Chicago,8,63000
+878,21,Masters,Engineer,Sales,Chicago,11,76000
+304,63,Bachelors,Scientist,HR,New York,18,78000
+572,40,High School,Engineer,R&D,New York,12,62000
+221,50,High School,Manager,R&D,San Francisco,7,67000
+361,63,High School,Engineer,R&D,Chicago,14,64000
+33,50,High School,Manager,R&D,Chicago,1,61000
+745,22,Bachelors,Engineer,R&D,Chicago,27,82000
+151,29,Bachelors,Scientist,R&D,New York,7,67000
+43,31,Masters,Engineer,R&D,Boston,28,93000
+470,40,Bachelors,Scientist,R&D,Chicago,2,62000
+560,31,Masters,Manager,HR,Chicago,29,104000
+600,22,Bachelors,Scientist,Marketing,San Francisco,25,85000
+302,43,High School,Engineer,R&D,Chicago,20,70000
+873,60,Bachelors,Manager,Sales,San Francisco,6,71000
+311,50,PhD,Scientist,Sales,Chicago,26,106000
+400,50,Bachelors,Engineer,R&D,New York,3,58000
+601,26,High School,Engineer,HR,Boston,5,55000
+902,57,Bachelors,Manager,R&D,Chicago,18,83000
+406,21,PhD,Engineer,Marketing,San Francisco,14,89000
+390,25,High School,Scientist,R&D,Boston,25,80000
+370,59,High School,Manager,Marketing,San Francisco,22,82000
+607,29,PhD,Engineer,R&D,New York,18,93000
+175,53,Masters,Manager,Marketing,San Francisco,22,97000
+670,59,Masters,Engineer,Marketing,San Francisco,27,92000
+499,62,Masters,Engineer,Sales,Boston,24,89000
+130,64,High School,Engineer,Sales,Boston,17,67000
+354,55,High School,Engineer,Sales,San Francisco,18,68000
+845,26,Bachelors,Scientist,Sales,San Francisco,12,72000
+158,35,Masters,Manager,R&D,Chicago,7,82000
+273,33,Bachelors,Engineer,Sales,Chicago,25,80000
+285,39,PhD,Scientist,R&D,Boston,3,83000
+386,23,Bachelors,Scientist,R&D,San Francisco,10,70000
+8,57,Masters,Manager,HR,New York,12,87000
+592,29,Bachelors,Engineer,Sales,Boston,7,62000
+241,55,High School,Scientist,R&D,San Francisco,18,73000
+667,47,High School,Manager,R&D,Boston,20,80000
+303,37,Bachelors,Engineer,R&D,Boston,26,81000
+229,24,High School,Analyst,Marketing,Boston,26,71000
+7,42,Masters,Manager,HR,San Francisco,25,100000
+597,37,Masters,Scientist,HR,San Francisco,9,79000
+997,60,PhD,Scientist,Sales,New York,29,109000
+634,64,High School,Engineer,Marketing,Boston,27,77000
+979,45,High School,Scientist,R&D,New York,10,65000
+9,44,PhD,Analyst,HR,New York,9,79000
+630,39,Masters,Scientist,R&D,Chicago,4,74000
+126,22,High School,Analyst,R&D,Boston,21,66000
+665,63,Bachelors,Manager,HR,Chicago,1,66000
+720,62,Bachelors,Analyst,Sales,New York,20,70000
+201,56,High School,Engineer,R&D,New York,27,77000
+951,32,Bachelors,Scientist,R&D,Chicago,4,64000
+578,27,Bachelors,Scientist,HR,Chicago,21,81000
+46,32,High School,Engineer,Marketing,Boston,1,51000
+355,51,PhD,Engineer,HR,Boston,1,76000
+476,51,PhD,Scientist,R&D,Chicago,16,96000
+687,47,Masters,Scientist,Sales,Chicago,11,81000
+755,49,High School,Engineer,Marketing,Chicago,1,51000
+90,34,Bachelors,Analyst,R&D,San Francisco,3,53000
+877,29,High School,Scientist,HR,San Francisco,14,69000
+793,50,Bachelors,Engineer,Marketing,San Francisco,23,78000
+522,55,High School,Scientist,R&D,Chicago,10,65000
+949,54,Bachelors,Scientist,Marketing,New York,29,89000
+784,26,High School,Manager,HR,San Francisco,22,82000
+315,29,High School,Engineer,R&D,San Francisco,9,59000
+987,46,Masters,Engineer,Marketing,New York,27,92000
+668,44,Masters,Engineer,HR,Chicago,26,91000
+509,62,PhD,Scientist,HR,Boston,17,97000
+742,29,High School,Scientist,Marketing,Chicago,20,75000
+514,55,Bachelors,Engineer,R&D,Chicago,7,62000
+469,28,PhD,Engineer,R&D,San Francisco,24,99000
+457,54,PhD,Scientist,HR,Boston,5,85000
+306,51,Bachelors,Scientist,Sales,Boston,17,77000
+193,45,PhD,Manager,R&D,San Francisco,8,93000
+172,40,Masters,Analyst,R&D,Boston,18,78000
+136,21,Bachelors,Engineer,Sales,New York,21,76000
+914,57,PhD,Manager,R&D,Boston,3,88000
+227,62,Masters,Engineer,HR,San Francisco,23,88000
+367,30,Bachelors,Manager,Marketing,Chicago,26,91000
+379,29,High School,Engineer,Sales,San Francisco,11,61000
+413,22,PhD,Scientist,R&D,New York,23,103000
+738,23,Masters,Scientist,Sales,Boston,10,80000
+730,22,Bachelors,Scientist,R&D,San Francisco,17,77000
+57,25,Masters,Scientist,R&D,Chicago,25,95000
+977,24,Bachelors,Engineer,Marketing,Chicago,29,84000
+645,21,Bachelors,Analyst,R&D,Boston,12,62000
+567,55,Bachelors,Analyst,Sales,San Francisco,11,61000
+702,45,High School,Scientist,R&D,Chicago,16,71000
+111,31,High School,Manager,HR,Chicago,5,65000
+705,40,High School,Engineer,Marketing,Chicago,12,62000
+384,41,High School,Scientist,Sales,San Francisco,13,68000
+658,24,Bachelors,Engineer,R&D,Chicago,5,60000
+595,58,High School,Scientist,Sales,New York,17,72000
+972,60,High School,Analyst,R&D,New York,29,74000
+296,30,High School,Engineer,R&D,Chicago,24,74000
+539,39,Bachelors,Manager,R&D,San Francisco,16,81000
+291,42,Masters,Engineer,Marketing,San Francisco,23,88000
+852,25,Bachelors,Scientist,HR,Boston,11,71000
